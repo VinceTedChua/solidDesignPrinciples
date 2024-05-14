@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c54934da-9f7c-4fc2-bbbe-879ab8f948fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solidDesignPrinciples.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Journal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LendingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReferenceArchive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Referencer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LendingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LendingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
