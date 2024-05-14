@@ -7,7 +7,7 @@ public class LendingService {
         this.referenceArchive = referenceArchive;
     }
 
-    public void lendBook(String title){
+    public void lendAudioBook(String title){
         Referencer book = referenceArchive.lendBook("Python 101");
         book.utilize(); //book utilize from Referencer Interface(s).
 
@@ -20,7 +20,7 @@ public class LendingService {
             System.out.println("Book is not found!");
         }
     }
-    public void lendJournal(String title){
+    public void lendEJournal(String title){
         Referencer journal = referenceArchive.lendJournal("Journalism Programming 2024");
        if (journal != null) {
         journal.utilize();

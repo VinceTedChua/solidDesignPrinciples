@@ -31,11 +31,11 @@ public class TestProgram {
             switch (options) {
                 case 1:
                     //Lend a Book
-                    lendingService.lendBook("bookTitle");
+                    lendingService.lendAudioBook("bookTitle");
                     break;
                 case 2:
                     //Lend a journal
-                    lendingService.lendJournal("journalTitle");
+                    lendingService.lendEJournal("journalTitle");
                     break;
                 case 3:
                     System.out.println("3BSCS2- Software Engineering II");
