@@ -15,8 +15,7 @@ To adhere to the Dependency Inversion Principle (DIP) and ensure flexibility for
 Your solution should not violate other SOLID principles.
 
 # UML Diagram
-![CSL322-18_WK16-17_DESIGN_PATTERN_IMPLEMENTS_SOLIDS_CHUA](https://github.com/VinceTedChua/solidDesignPrinciples/assets/142372312/af31cd7e-9baa-4310-aa71-90ef5fb99e83)
-
+![CSL322-18_WK16-17_DESIGN_PATTERN_IMPLEMENTS_SOLIDS_CHUA](https://github.com/VinceTedChua/solidDesignPrinciples/assets/142372312/da6ed45b-e168-407a-b4aa-7d86055d1edb)
 
 # Java Solution Code(s)
 
