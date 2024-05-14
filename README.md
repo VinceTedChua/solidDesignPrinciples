@@ -19,3 +19,23 @@ Your solution should not violate other SOLID principles.
 
 
 # Java Solution Code(s)
+
+# 1. Lend a Book
+![CSL322-18_SE2_WK16-17_SOLIDESIGN_PRINCIPLE_CHUA_1](https://github.com/VinceTedChua/solidDesignPrinciples/assets/142372312/027e564b-179e-44a1-bf29-13613e1b9206)
+
+
+# 2. Lend a Journal
+![CSL322-18_SE2_WK16-17_SOLIDESIGN_PRINCIPLE_CHUA_2](https://github.com/VinceTedChua/solidDesignPrinciples/assets/142372312/8e7b503c-7d4e-439b-a959-1c20fb1003fd)
+
+
+# 3. Print Programmer's Name
+![CSL322-18_SE2_WK16-17_SOLIDESIGN_PRINCIPLE_CHUA_3](https://github.com/VinceTedChua/solidDesignPrinciples/assets/142372312/b590885e-6532-47f8-b541-eb1d587fce70)
+
+
+
+# 4. End Program
+![CSL322-18_SE2_WK16-17_SOLIDESIGN_PRINCIPLE_CHUA_4](https://github.com/VinceTedChua/solidDesignPrinciples/assets/142372312/dad5a1d8-3bf6-40bf-8dc1-769d97a8d768)
+
+# 5 Invalid Option
+![CSL322-18_SE2_WK16-17_SOLIDESIGN_PRINCIPLE_CHUA_5](https://github.com/VinceTedChua/solidDesignPrinciples/assets/142372312/f3bbee54-b92a-4e46-b740-3b51e81b1b77)
+
